@@ -4,7 +4,7 @@ NOTE: Created in Python 2.
 
 ## Objective
 
-A python search engine to find the most semantically equivalent word given its meaning as input.
+A Python search engine which, given any sentence, finds the most semantically equivalent word for it. It helps solve the tip of the tongue problem.
 
 ## About the Repository
 
@@ -16,7 +16,7 @@ A python search engine to find the most semantically equivalent word given its m
 
 ## Resources
 
-Download and place this [pre-trained Word2Vec model](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit) in the same folder alongside revDict.py and dictionary.json
+Download and place this [pre-trained Word2Vec model](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit) in the same folder alongside revDict.py and dictionary.json.
 
 ## Instructions to Run
 
@@ -26,7 +26,7 @@ python revDict.py                   # Run the script using python 2
 
 ## Inputs
 
-- Sentence - Sentence whose symantically equivalent word is required.
+- Sentence - Sentence whose semantically equivalent word is required.
 - First Alphabet - First alphabet of the word you are expecting as output (specifically done to restrict the search space and can be removed if computational limitations are not a problem).
 
 ## Outputs
