@@ -27,7 +27,7 @@ python revDict.py                   # Run the script using python 2
 ## Inputs
 
 - Sentence - Sentence whose symantically equivalent word is required.
-- First Alphabet - First alphabet of the word you are expecting as output (Specifically done to restrict the search space and can be removed if computational limitations are not a problem).
+- First Alphabet - First alphabet of the word you are expecting as output (specifically done to restrict the search space and can be removed if computational limitations are not a problem).
 
 ## Outputs
 
