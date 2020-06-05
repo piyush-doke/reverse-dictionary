@@ -23,7 +23,7 @@ Download and place this [pre-trained Word2Vec model](https://drive.google.com/fi
 ### How to Execute
 
 ```
-python revDict.py                   # Run the script using python 2
+python revDict.py                   # Run the script using Python 2
 ```
 
 ### Inputs
@@ -33,5 +33,5 @@ python revDict.py                   # Run the script using python 2
 
 ### Outputs
 
-- Prints a list to the terminal (of length 20, but can be adjusted) of suggestions in decreasing order of similarity.
+- Prints a list (of length 20, but can be adjusted) of suggestions to the terminal in decreasing order of similarity.
 
